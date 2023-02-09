@@ -1,2 +1,2 @@
 # HsGuard-Obfuscator
-Obfuscator that was used as Eskids base
+Bro just check the settings and the obfuscation and u will see big ass similarity
