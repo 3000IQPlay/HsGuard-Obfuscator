@@ -1,6 +1,6 @@
 {
-  "input": "Trillium-b1.4.5.jar",
-  "output": "Trillium-b1.4.5-obf.jar",
+  "input": "in",
+  "output": "out.jar",
   
   "libraries": [
     "C:/Program Files/Java/jre1.8.0_351/lib/rt.jar"
