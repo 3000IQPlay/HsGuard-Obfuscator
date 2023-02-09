@@ -13,7 +13,7 @@
     "class_encrypt": {
       "enable_transformer": false,
       
-      "loader_name": "TrilliumLoader",
+      "loader_name": "NativeLoader",
       "main_class": "dev/jnic/arithmeticgame/Main",
       
       "string_key": 315,
